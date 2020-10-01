@@ -1,0 +1,20 @@
+h1
+{
+    font-size: 33pt;
+    font-family: monospace;
+    color: olive;
+}
+h2{
+    font-size: 12pt;
+}
+
+p
+{  
+    font-size: 60pt;
+    font-family: monospace;
+}
+
+ul
+{   font-weight: 900;
+   font-family: monospace;
+}
